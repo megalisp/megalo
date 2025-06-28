@@ -1,0 +1,8 @@
+{
+  "accentColor": "#ff9500",
+  "enabledCssSnippets": [
+    "vault_title"
+  ],
+  "baseFontSize": 30,
+  "theme": "moonstone"
+}
