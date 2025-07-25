@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"30ad724447384d06","type":"text","text":"<center><h1>MEGALO</h1></center> \n<center>IE: MegaLisp's General Knowledgebase</center>","x":-309,"y":260,"width":499,"height":300,"color":"2"},
+		{"id":"953cf66760b8a2db","type":"file","file":"_res_/megalisp.png","x":-309,"y":-260,"width":499,"height":499}
+	],
+	"edges":[]
+}

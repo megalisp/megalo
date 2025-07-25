@@ -1,27 +1,27 @@
 {
   "main": {
-    "id": "678d172506e7d76d",
+    "id": "edb6d4efaf3be605",
     "type": "split",
     "children": [
       {
-        "id": "17ce276604464884",
+        "id": "ffae26a17901eef8",
         "type": "tabs",
         "children": [
           {
-            "id": "9e06a8a55c2c792d",
+            "id": "4fe1beeee1590273",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "MAINFRAME.canvas",
+                "file": "index.canvas",
                 "viewState": {
-                  "x": 83.40813800062277,
-                  "y": 710.5905029365919,
-                  "zoom": -0.6533333333333348
+                  "x": 118.55845794392961,
+                  "y": 348.903663077654,
+                  "zoom": -1.3582945502590764
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "MAINFRAME"
+              "title": "index"
             }
           }
         ]
@@ -30,15 +30,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "8a461c67121c76a9",
+    "id": "6b6fda6a785938aa",
     "type": "split",
     "children": [
       {
-        "id": "937064c1047af9f9",
+        "id": "e23ae014502077b4",
         "type": "tabs",
         "children": [
           {
-            "id": "b899af4d0e6864a2",
+            "id": "d009620eef1e8c3e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -51,7 +51,7 @@
             }
           },
           {
-            "id": "ce5cf0f416be5625",
+            "id": "288158f77e41006f",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -68,7 +68,7 @@
             }
           },
           {
-            "id": "91f23c98c613f140",
+            "id": "532f107af30d344b",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -84,15 +84,15 @@
     "width": 300
   },
   "right": {
-    "id": "1df19d7db8b67774",
+    "id": "d224e26e74de2ec5",
     "type": "split",
     "children": [
       {
-        "id": "5979ebb3328141ee",
+        "id": "d68bafaf519235f2",
         "type": "tabs",
         "children": [
           {
-            "id": "351fd8a448a26d21",
+            "id": "1882b85af5fe047a",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -110,7 +110,7 @@
             }
           },
           {
-            "id": "a70fc1204b39a6ef",
+            "id": "0e89b1e27157621d",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -123,7 +123,7 @@
             }
           },
           {
-            "id": "a0b5c3a46855ad44",
+            "id": "796cb0d98885ff7a",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -138,7 +138,7 @@
             }
           },
           {
-            "id": "fc06cb1e99126de4",
+            "id": "411c9c5725a26558",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -165,24 +165,69 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "9e06a8a55c2c792d",
+  "floating": {
+    "id": "bb65f756c539e9c8",
+    "type": "floating",
+    "children": [
+      {
+        "id": "5951b9a18175673e",
+        "type": "window",
+        "children": [
+          {
+            "id": "6f0aeb2265bdb9d4",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "9fab48e337cfd607",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "README.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "README"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 2368,
+        "y": 135,
+        "width": 900,
+        "height": 500,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "9fab48e337cfd607",
   "lastOpenFiles": [
-    "MEGA.md",
-    "MAINFRAME.canvas",
+    "index.canvas",
+    "megalo/logo.png",
+    "megalo/_res_/megalisp.png",
+    "megalo/_res_",
+    "megalo/README.md",
+    "megalo/MAINFRAME.canvas",
+    "megalo/LEGAL.txt",
+    "megalo",
+    "docs",
+    "LICENSE/CC-BY-ND.txt",
+    "LICENSE",
+    "Untitled.md",
+    "LEGAL.txt",
     "_res_/megalisp.png",
     "logo.png",
     "README.md",
-    "LEGAL.txt",
-    "COURSES/00 Index.md",
-    "COURSES/01 How To Design Programs.md",
-    "PROJS/WORKS",
-    "PROJS",
+    "PROJS/TURT.LOL",
     "NOTEBOOK",
-    "COURSES",
-    "_res_",
-    "PREZ"
+    "_res_"
   ]
 }
