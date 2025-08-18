@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"185584bfdcba6de7","type":"text","text":"# RETROGRADE Is\nRawind's Desktop-Environment Like Thing.\n\nMost Desktop-Envirnoments ship an \"optional\" window-manager as part of their ecosystem.\nWe are a window-manager shipping an actually optional desktop-environment as part of ours.","x":-2480,"y":-317,"width":1465,"height":395},
+		{"id":"4b326e099ad897ee","type":"text","text":"retro/grade retro/gapps \n\nretro/grade/elem (/panel.rkt)\nretro/grade/libs/\nredro/grade/misc (/welcome.rkt)\nretro/grade/utils ","x":-2472,"y":128,"width":725,"height":586},
+		{"id":"0d06ba57aa863872","type":"text","text":"# RAWIND","x":-2157,"y":-787,"width":317,"height":175},
+		{"id":"59284d3d793c263e","type":"text","text":"Need a project that is actually liveable to people. integrates well into other projects of mine observ","x":-2400,"y":-612,"width":720,"height":235},
+		{"id":"5b75686f2ba0625e","type":"text","text":"The more you can live in an environment, the more likely that environment will be \"lived in\" / \"mature\" or at minimum garner a community with the intent of bringing these things directionally 'where they need it to be' . You want to be a, if possible THE host not a client that uses it. \n\n This is the value-proposition of something like an operating-system, game-engine, desktop-environment, or \"the web\".\n\n","x":-880,"y":-617,"width":1299,"height":480}
+	],
+	"edges":[]
+}

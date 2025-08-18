@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"d2cbb21f8562b74b","type":"text","text":"# Stuff to still implement?","x":-1080,"y":-1079,"width":800,"height":139},
+		{"id":"3b47d248541363a6","type":"text","text":"- Black / Whitelist For Words, Phrases, Etc.\n  <br>\n- Perms system (who can use certain commands, in where, what roles.)\n  <br>\n- Maybe add an \"only in\" certain channel limit for specific commands\n  <br>\n- Cache for channel names, guild itself (ie: server), users as-needed.\n<br>\n- Twitch api integration. At minimum go-live alerts.\n<br>\n- Piper TTS messages (full dsl and https send); Only do this when blacklist / whitelist implement.\n<br>\n- Generalized 'react' system, so we can if xyz happens it will automatically do x.\n<br>\n- Spam protection (react if sees someone posts x amount of times in y seconds)\n  \n  - \"Lockdown mode\" \n\t  - Turn off people being able to post links.\n</br>\n- Newsletter opt-in messages.\n</br>\n- Discord \"Tickets\"\n</br>\n- Slash commands.","x":-1040,"y":-900,"width":940,"height":1980},
+		{"id":"754f7d7aee4c9890","type":"text","text":"(piper #:)","x":227,"y":-453,"width":853,"height":493},
+		{"id":"c162b7f1af6433b8","type":"text","text":"Potential DSL For Piper-TTS ","x":272,"y":-605,"width":668,"height":105},
+		{"id":"0648d8fa46414b46","type":"text","text":"","x":615,"y":-804,"width":250,"height":60}
+	],
+	"edges":[]
+}

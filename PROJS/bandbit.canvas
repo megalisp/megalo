@@ -1,0 +1,6 @@
+{
+	"nodes":[
+		{"id":"8734816f3762c015","x":-704,"y":-190,"width":584,"height":170,"type":"text","text":"Need to add startup service to repo for systemd. Maybe even justfile for various things."}
+	],
+	"edges":[]
+}

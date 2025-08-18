@@ -28,14 +28,17 @@
             "id": "e55ee822f3fe9a1c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "file": "PROJS/bandbit.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "README"
+              "icon": "lucide-layout-dashboard",
+              "title": "bandbit"
             }
           }
         ],
@@ -186,27 +189,27 @@
   },
   "active": "e55ee822f3fe9a1c",
   "lastOpenFiles": [
-    "index.canvas",
-    "_rawind.canvas",
-    "_observ.canvas",
-    "_cordian.canvas",
-    "_bandbit.canvas",
     "STREAM STUFF.canvas",
+    "docs/PROJS/rawind.html",
+    "docs/PROJS/observ.html",
+    "docs/PROJS/cordian.html",
+    "docs/PROJS/bandbit.html",
+    "docs/PROJS",
+    "README.md",
+    "index.canvas",
+    "PROJS/rawind.canvas",
+    "PROJS/observ.canvas",
+    "PROJS/cordian.canvas",
+    "PROJS/bandbit.canvas",
+    "MEGAPLEX/Untitled.canvas",
+    "MEGAPLEX/EMOTES.canvas",
+    "Untitled",
     "docs/STREAM STUFF.html",
     "docs/_rawind.html",
     "docs/_observ.html",
     "docs/_cordian.html",
-    "docs/_bandbit.html",
-    "docs/MEGAPLEX/Untitled.html",
-    "docs/MEGAPLEX/EMOTES.html",
-    "docs/MEGAPLEX",
-    "README.md",
-    "MEGAPLEX/Untitled.canvas",
-    "MEGAPLEX/EMOTES.canvas",
     "logo.png",
     "Untitled.md",
-    "MEGAPLEX",
-    "docs/lib/metadata.json",
     "docs/lib/media/6155340132a851f6089e.svg",
     "docs/logo.png",
     "docs/_res_/megalisp.png",

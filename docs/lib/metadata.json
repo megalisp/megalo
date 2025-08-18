@@ -1,6 +1,6 @@
 {
   "vaultName": "MEGALO",
-  "lastExport": 1755492234133,
+  "lastExport": 1755550943351,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-light show-inline-title show-ribbon",
   "useCustomHeadContent": false,
@@ -10,10 +10,10 @@
     "LICENSE/CC-BY-ND.txt",
     "MEGAPLEX/EMOTES.canvas",
     "MEGAPLEX/Untitled.canvas",
-    "_bandbit.canvas",
-    "_cordian.canvas",
-    "_observ.canvas",
-    "_rawind.canvas",
+    "PROJS/bandbit.canvas",
+    "PROJS/cordian.canvas",
+    "PROJS/observ.canvas",
+    "PROJS/rawind.canvas",
     "index.canvas",
     "LEGAL.txt",
     "logo.png",
@@ -52,165 +52,165 @@
   ],
   "fileInfo": {
     "_res_/megalisp.png": {
-      "modifiedTime": 1755492234133,
+      "modifiedTime": 1755550943351,
       "sourceSize": 1912004,
       "exportedPath": "_res_/megalisp.png",
       "dependencies": []
     },
     "LICENSE/CC-BY-ND.txt": {
-      "modifiedTime": 1755492234133,
+      "modifiedTime": 1755550943351,
       "sourceSize": 19127,
       "exportedPath": "LICENSE/CC-BY-ND.txt",
       "dependencies": []
     },
     "index.canvas": {
-      "modifiedTime": 1755492234133,
+      "modifiedTime": 1755550943351,
       "sourceSize": 338,
       "exportedPath": "index.html",
       "dependencies": []
     },
     "LEGAL.txt": {
-      "modifiedTime": 1755492234133,
+      "modifiedTime": 1755550943351,
       "sourceSize": 88,
       "exportedPath": "LEGAL.txt",
       "dependencies": []
     },
     "logo.png": {
-      "modifiedTime": 1755492234133,
+      "modifiedTime": 1755550943351,
       "sourceSize": 254497,
       "exportedPath": "logo.png",
       "dependencies": []
     },
     "README.md": {
-      "modifiedTime": 1755492234133,
+      "modifiedTime": 1755550943351,
       "sourceSize": 347,
       "exportedPath": "README.html",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1755492234133,
+      "modifiedTime": 1755550943351,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1755492234133,
+      "modifiedTime": 1755550943351,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1755492234133,
+      "modifiedTime": 1755550943351,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1755492234133,
+      "modifiedTime": 1755550943351,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1755492234133,
+      "modifiedTime": 1755550943351,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1755492234133,
+      "modifiedTime": 1755550943351,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1755492234133,
+      "modifiedTime": 1755550943351,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1755492234133,
+      "modifiedTime": 1755550943351,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1755492234133,
+      "modifiedTime": 1755550943351,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1755492234133,
+      "modifiedTime": 1755550943351,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1755492234133,
+      "modifiedTime": 1755550943351,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1755492234133,
+      "modifiedTime": 1755550943351,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1755492234133,
+      "modifiedTime": 1755550943351,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/6155340132a851f6089e.svg": {
-      "modifiedTime": 1755492234133,
+      "modifiedTime": 1755550943351,
       "sourceSize": 315,
       "exportedPath": "lib/media/6155340132a851f6089e.svg",
       "dependencies": []
     },
     "MEGAPLEX/EMOTES.canvas": {
-      "modifiedTime": 1755492234133,
+      "modifiedTime": 1755550943351,
       "sourceSize": 573,
       "exportedPath": "MEGAPLEX/EMOTES.html",
       "dependencies": []
     },
     "MEGAPLEX/Untitled.canvas": {
-      "modifiedTime": 1755492234133,
+      "modifiedTime": 1755550943351,
       "sourceSize": 28,
       "exportedPath": "MEGAPLEX/Untitled.html",
       "dependencies": []
     },
-    "_bandbit.canvas": {
-      "modifiedTime": 1755492234133,
-      "sourceSize": 2,
-      "exportedPath": "_bandbit.html",
-      "dependencies": []
-    },
-    "_cordian.canvas": {
-      "modifiedTime": 1755492234133,
-      "sourceSize": 2,
-      "exportedPath": "_cordian.html",
-      "dependencies": []
-    },
-    "_observ.canvas": {
-      "modifiedTime": 1755492234133,
-      "sourceSize": 13605,
-      "exportedPath": "_observ.html",
-      "dependencies": []
-    },
-    "_rawind.canvas": {
-      "modifiedTime": 1755492234133,
-      "sourceSize": 1413,
-      "exportedPath": "_rawind.html",
-      "dependencies": []
-    },
     "STREAM STUFF.canvas": {
-      "modifiedTime": 1755492234133,
+      "modifiedTime": 1755550943351,
       "sourceSize": 1913,
       "exportedPath": "STREAM STUFF.html",
+      "dependencies": []
+    },
+    "PROJS/bandbit.canvas": {
+      "modifiedTime": 1755550943351,
+      "sourceSize": 213,
+      "exportedPath": "PROJS/bandbit.html",
+      "dependencies": []
+    },
+    "PROJS/cordian.canvas": {
+      "modifiedTime": 1755550943351,
+      "sourceSize": 1369,
+      "exportedPath": "PROJS/cordian.html",
+      "dependencies": []
+    },
+    "PROJS/observ.canvas": {
+      "modifiedTime": 1755550943351,
+      "sourceSize": 13605,
+      "exportedPath": "PROJS/observ.html",
+      "dependencies": []
+    },
+    "PROJS/rawind.canvas": {
+      "modifiedTime": 1755550943351,
+      "sourceSize": 1413,
+      "exportedPath": "PROJS/rawind.html",
       "dependencies": []
     }
   }
