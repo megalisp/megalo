@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"89a0b92248774246","type":"text","text":"megaLIAR","x":253,"y":-108,"width":250,"height":60},
+		{"id":"e2b4c0f58a95543d","type":"text","text":"Pinocchio like nose.","x":307,"y":-48,"width":393,"height":76},
+		{"id":"b63bb11fa5c4d4e0","type":"text","text":"megaMANG","x":820,"y":-108,"width":250,"height":60},
+		{"id":"fea81754453904a4","x":518,"y":-260,"width":402,"height":74,"type":"text","text":"Potential Emotes?"},
+		{"id":"a041a691fe5d4e0a","x":840,"y":-48,"width":560,"height":76,"type":"text","text":"Arm cannon / charging. "}
+	],
+	"edges":[]
+}

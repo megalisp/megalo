@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"cd4e32182411e468","type":"text","text":"Add to observ, look for obs process and if it doesn't exist -- launch. ","x":-335,"y":-191,"width":615,"height":151},
+		{"id":"135d7834e5030b7b","type":"text","text":"maybe turn-off auto scene switch? auto record's prob fine","x":-160,"y":-40,"width":440,"height":180},
+		{"id":"13dd72898cbf4486","type":"text","text":"Actually, make it conditional that if obs is already started / there is a process for it don't scene switch; Only do that on new process? Or in some way conditional in-general","x":0,"y":140,"width":760,"height":320},
+		{"id":"91723ce4dcf32906","type":"text","text":"Internal video player (mostly for meme vids / startup video stuff.)","x":957,"y":-673,"width":1003,"height":93},
+		{"id":"11a3fcf563a3c9e9","type":"text","text":"You can set `FFmpeg Options` for a given media source.","x":1060,"y":-520,"width":900,"height":120},
+		{"id":"db6e6a4678fd535c","type":"text","text":"add `pip` to keep a scene, added to the given scene you are in (ie: follows you.)","x":1280,"y":-324,"width":680,"height":266},
+		{"id":"7d945acbfd741110","type":"text","text":"Bug sketching guy, to opensource it formally? (hopefully under MIT x Apache2 a'la Racket itself)","x":2588,"y":-896,"width":892,"height":196},
+		{"id":"b6170785a7649339","type":"text","text":"- Racket langserver in vscode maxes out core.\n- Always on or super easily toggleable obs view\n\t- So we can dedicate 3 main actually to work\n\t- ","x":2588,"y":20,"width":992,"height":245,"color":"4"},
+		{"id":"15f4a1e864d63fce","type":"text","text":"1. Move camera to other display.\n2. Move ","x":3120,"y":-220,"width":720,"height":240},
+		{"id":"20f6e01ee29f4d93","type":"text","text":"Move streaming to upper computer; \"Deslocation\" -- and use capture card.\n\nUse hdmi-splitter to capture card. top ","x":2360,"y":-220,"width":760,"height":240,"color":"4"}
+	],
+	"edges":[]
+}

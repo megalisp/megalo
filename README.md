@@ -1,5 +1,7 @@
 <div align="center">
-    <img src="logo.png" alt="Website" height="250">
+	 <p>
+	    <img src="logo.png" alt="Website" height="250">
+     </p>
     <h1>NOTED :</h1>
     <h1>@MEGALISP/MEGALO </h1>
     <h2>Personal KnowledgeBase.</h2>
